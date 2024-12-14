@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: ChinnuAi
+Version: 1.0.1
+Summary: Chinnu AI: Quantum-inspired chatbot framework with deep learning integration.
+Home-page: https://github.com/Kalasaikamesh944/ChinnuAi.git
+Author: N V R K SAI KAMESH YADAVALLI
+Author-email: saikamesh.y@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: tqdm
+Requires-Dist: termcolor
+
 # Chinnu AI with Quantum Integration 
 # Gift for my best friend 
 
